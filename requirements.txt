@@ -1,1 +1,10 @@
 streamlit
+pandas
+matplotlib
+requests
+beautifulsoup4
+feedparser
+wordcloud
+scikit-learn
+nltk
+plotly
